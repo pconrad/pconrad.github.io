@@ -20,3 +20,6 @@ main:
     
   - title: "Guide"
     url: /markdown/
+
+  - title: "Repo"
+    url: https://github.com/pconrad/pconrad.github.io
