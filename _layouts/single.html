@@ -43,14 +43,18 @@ layout: default
         {% endif %}
         
              
-        {% if page.citation and page.paperurl %}
-          <p>Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
-        {% elsif page.citation %}
-          <p>Recommended citation: {{ page.citation }} </p>
-	  {% if page.doi %}
-	  <p>DOI: ({{page.doi}})[https://doi.org/{{page.doi}}]</p>
-	  {% endif %}
+        {% if page.paperurl %}
+          <p><a href="{{ page.paperurl }}"><u>{{ page.paperurl }}</u></a></p>
+	{% endif %}
+        {% if page.citation %}
+          <p>Citation: {{ page.citation }} </p>
         {% endif %}
+	{% if page.doi %}
+	  <p>DOI: [{{page.doi}}](https://doi.org/{{page.doi}})</p>
+	{% endif %}
+	{% if page.pdf %}
+	  <p>[Download PDF]({{page.pdf}})</p>
+	{% endif %}	 
     
         </header>
       {% endunless %}
