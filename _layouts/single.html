@@ -50,10 +50,10 @@ layout: default
           <p>Citation: {{ page.citation }} </p>
         {% endif %}
 	{% if page.doi %}
-	  <p>DOI: [{{page.doi}}](https://doi.org/{{page.doi}})</p>
+	  <p>DOI: <a href="https://doi.org/{{page.doi}}"><u>{{page.doi}}</u></a></p>
 	{% endif %}
 	{% if page.pdf %}
-	  <p>[Download PDF]({{page.pdf}})</p>
+	  <p><a href="{{page.pdf}}"><i class="fa fa-file-pdf-o"></i>&nbsp;<u>Download PDF</u></a></p>
 	{% endif %}	 
     
         </header>
