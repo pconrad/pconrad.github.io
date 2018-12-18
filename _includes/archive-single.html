@@ -61,11 +61,13 @@
     {% if post.pdf or post.doi %}
     <p>
       {% if post.pdf %}
-       <a href="{{post.pdf}}"><i class="fa fa-file-pdf-o"></i>&nbsp;<u>Download PDF</u></a>&nbsp;
+       <a href="{{post.pdf}}"><i class="fa fa-file-pdf-o"></i>&nbsp;<u>Download PDF</u></a>&nbsp;&nbsp;&nbsp;
       {% endif %} 
       {% if post.doi %}
         DOI: <a href="https://doi.org/{{post.doi}}"><u>{{post.doi}}</u></a>
-      {% endif %}
+       {% elsif post.paperurl %}
+        <a href="{{post.paperurl}}"><u>Link</u></a>
+       {% endif %}
     </p>
     {% endif %}
   </article>
