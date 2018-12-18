@@ -1,0 +1,1275 @@
+                         CONFERENCE PROGRAM
+           The 1999 International Conference on Parallel
+       and Distributed Processing Techniques and Applications
+                              PDPTA'99
+                        June 28 - July 1, 1999
+        Monte Carlo Resort & Casino, Las Vegas, Nevada, USA
+
+                       JUNE 27, 1999 - SUNDAY
+                       ======================
+
+7:00 - 9:00pm:   REGISTRATION (Second Floor, Conference Section)
+
+                       JUNE 28, 1999 - MONDAY
+                       ======================
+
+6:30am - 5:00pm: REGISTRATION (Second Floor, Conference Section)
+
+8:30 - 8:45am:   Conference Opening Remarks
+                 Hamid R. Arabnia, PDPTA Chair, University of Georgia, USA
+                 PDPTA Committee will present an Outstanding Achievement
+                 Award
+                 Recepient: Professor Geoffrey C. Fox, Syracuse University,
+                 (Location: Meeting Room 5)
+
+8:45 - 9:45am:   KEYNOTE:
+                 Integration of Web, Distributed Object and High Performance
+                 Computing in a New Generation of Programming Environments
+                 Geoffrey C. Fox, Syracuse University, USA
+                 (Location: Meeting Room 5)
+
+9:45 - 10:50am:  DISCUSSION SESSION A + REFRESHMENTS
+                 RRA + SRP + Poster Papers
+                 Two time periods: 9:45 - 10:15am and 10:20 - 10:50am
+                 (Location: Meeting Rooms 1, 2, 3 and Conference Hallways)
+                 (List of Papers appended)
+
+PARALLEL SESSIONS:
+
+SESSION 1P:      COORDINATION IN PARALLEL AND DISTRIBUTED APPLICATIONS
+CHAIRS:          Khalil Drira* and Raul Jacinto Montes**
+                 *LAAS-CNRS, Toulouse, France
+                 **CINVESTAV, Mexico
+                 June 28, 10:50am - 3:50pm
+                 (Location: Meeting Room 5)
+
+10:50 - 11:10am: Coordination Programming for Parallel and Distributed
+                 Applications
+                 Farhad Arbab
+                 Amsterdam, Netherlands
+
+11:10 - 11:30am: Modelling Dynamic Agent Systems with Cooperating Automata
+                 Eric Badouel, Philippe Darondeau, and Andrew Tokmakoff
+                 Rennes, France
+
+11:30 - 11:50am: Observation of Corba/Java Applications
+                 Laurence Duchien and Eric Jeury
+                 Paris, France
+
+11:50 - 12:10pm: Contract Based Coordination of Distributed Object Systems
+                 Holger Giese, Jorg Graf, and Guido Wirtz
+                 Westfalische Wilhelms-Universitat, Muenster, Germany
+
+12:10 - 12:30pm: Modelling Coordinated Work Environments
+                 Hilda Tellioglu
+                 Vienna University of Technology, Vienna, Austria
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+1:30 - 1:50pm:   Anonymous Coordination as the Basis for a Component
+                 Approach
+                 Tom Holvoet, Kris Vanholst, and Pierre Verbaeten
+                 Leuven, Belgium
+
+1:50 - 2:10pm:   Connector-aided Coordination in Agent Systems
+                 Mario Kupries
+                 University of Postdam, Postdam, Germany
+
+2:10 - 2:30pm:   A Multiagent Architecture for a Virtual Office
+                 F. F. Ramos, D. Guarduno, and I. Romero
+                 CINVESTAV, Jalisco, Mexico
+
+2:30 - 2:50pm:   Automatic Management of Sessions in Shared Spaces
+                 Geraldine Texier and Noel Plouzeau
+                 Rennes, France
+
+2:50 - 3:10pm:   Coordination Issues in Distributed Testing
+                 Omar Rafiq, Leo Cacciari, and Mohammed Benattou
+                 Universite' de Pau, Pau, France
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   Dynamic Architecture Management of Component Based
+                 Applications
+                 Marie-Claude Pellegrini and Michel Riveill
+                 France Telecom, Meylan, France
+
+SESSION 2P:      REAL-TIME SYSTEMS
+CHAIR:           Dugki Min
+                 Korea Information Processing Society (KIPS)
+                 June 28, 3:50 - 5:10pm
+                 (Location: Meeting Room 5)
+
+3:50 - 4:10pm:   Real-time Parallel Processing for Nested Transactions
+                 Seung-Jin Moon, Dong-ik Oh, Doo-Soon Park, and
+                 Yong Hae Kong
+                 Soonchunhyang University, Chung-Nam, (South) Korea
+
+4:10 - 4:30pm:   TREAT: Timed Reachability Analysis Tool
+                 Inhye Kang
+                 Soongsil University, Seoul, (South) Korea
+
+4:30 - 4:50pm:   An Environment for Real-Time Simulation Based on the
+                 TMO Model
+                 Moon Hae Kim and Jung-Guk Kim
+                 Konkuk University, Seoul, (South) Korea
+
+4:50 - 5:10pm:   A Workflow Compositional Model with Delta-Nets
+                 P. Gradit, F. Vernadat, and P. Azma
+                 LAAS-CNRS, Toulouse, France
+
+8:00 - 10:00pm:  CONFERENCE RECEPTION
+                 June 28 (Monday)
+                 (Location: Meeting Rooms 4 and 5)
+
+SESSION 3P:      MODELS, ALGORITHMS, AND APPLICATIONS
+CHAIR:           Prabir Daripa
+                 Texas A&M University, College Station, Texas, USA
+                 June 28, 10:50 - 12:30pm
+                 (Location: Meeting Room 4)
+
+10:50 - 11:10am: A Parallel Version of a Fast Algorithm for Singular
+                 Integral Transforms
+                 Leonardo Borges and Prabir Daripa
+                 Texas A&M University, College Station, Texas, USA
+
+11:10 - 11:30am  A Layered Cooperative Architecture and its Application
+                 in TeleTeaching Framework
+                 H. Mountassir, M. Trehel, A. Ibriz, and M. Erradi
+                 Universite de Frache-Comte, LIB, Besancon, France
+
+11:30 - 11:50am: On the Implementation of Information Retrieval as Sparse
+                 Matrix Application
+                 Nazli Goharian and Tarek El-Ghazawi
+                 Illinois Institute of Technology, Chicago, Illinois, USA
+
+11:50 - 12:10pm: Parallel Distributed Constraint Satisfaction
+                 Marko Fabiunke
+                 German National Research Center for Information
+                 Technology, Berlin, Germany
+
+12:10 - 12:30pm: Relating Empirical Performance Data to Achievable Parallel
+                 Application Performance
+                 Roy W. Melton, Cecil O. Alford, Philip R. Bingham, and
+                 Tsai Chi Huang
+                 Georgia Institute of Technology, Atlanta, Georgia, USA
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+SESSION 4P:      CURRENT LIMITS TO AUTOMATED VERIFICATION FOR DISTRIBUTED
+                 SYSTEMS
+CHAIR:           G. M. Reed
+                 Oxford University, Oxford, UK
+                 June 28, 1:30 - 5:00pm
+                 (Location: Meeting Room 4)
+
+1:30 - 2:00pm    What Does it Take to do Processor Verification and
+                 (to be perceived) to be Successful?
+                 Rob Gerth
+                 Intel Corp., USA
+
+2:00 - 2:30pm:   Integrated Formal and Informal Design Verification
+                 of Commerical Integrated Circuits
+                 Carl Pixley, Kurt Shultz, and Jun Yuan
+                 Motorola, USA
+
+2:30 - 3:00pm:   Formal Methods for Developing Requirements Specifications:
+                 Research Issues
+                 Connie Heitmeyer
+                 US Naval Research Laboratory, USA
+
+3:30 - 3:30pm:   BREAK
+
+3:30 - 4:00pm:   Challenges to Process-Algebraic Property-Checking
+                 Michael Goldsmith
+                 Formal Systems, UK
+
+4:00 - 4:30pm:   Current Limits For Exploiting Automated Verification
+                 M. I. Zakiuddin
+                 Defence Evaluation and Research Agency, UK
+
+4:30 - 5:00pm:   Model Checking Symmetric Systems Efficiently
+                 E. Allen Emerson
+                 University of Texas, Austin, Texas, USA
+
+8:00 - 10:00pm:  CONFERENCE RECEPTION
+                 June 28 (Monday)
+                 (Location: Meeting Rooms 4 and 5)
+
+SESSION 5P:      LANGUAGES AND THEIR IMPLEMENTATIONS
+CHAIRS:          Ronald A. Olsson and Raju Pandey
+                 University of California, Davis, California, USA
+                 June 28, 10:50 - 2:50pm
+                 (Location: Meeting Room 3)
+
+10:50 - 11:10am: Pipeline Expansion in Coordinated Applications
+                 Carl Bartlett, Neal Sample, and Matth Haines
+                 University of Wyoming, Laramie, Wyoming, USA
+
+11:10 - 11:30am: Transparent Distribution Middleware for General
+                 Purpose Computations
+                 Partha Dasgupta*, Vijay Karamcheti**, and Zvi M. Kedem**
+                 *Arizona State University, Arizona, USA
+                 */**New York University, New York, USA
+
+11:30 - 11:50am: A Programming Model for Clusters of SMPs
+                 Suvas Vajracharya, Pete Beckman, Kate Keahey,
+                 Craig Rasmussen, Rod Oldehoeft, and Steve Karmesin
+                 Los Alamos National Laboratory, New Mexico, USA
+
+11:50 - 12:10pm: Object Views: Bridging the Performance Gap Between
+                 Shared Memory and Message Passing
+                 Ilya Lipkind and Vijay Karamcheti
+                 New York University, New York, USA
+
+12:10 - 12:30pm: Adaptive Scheduling Control Mechanisms for Concurrent
+                 Objects
+                 Tzilla Elrad** and En-Hsin Huang*
+                 *Lucent Technologies, Chicago, Illinois, USA
+                 **Illinois Institute of Technology, Illinois, USA
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+1:30 - 1:50pm:   Java Object Matching: Linda Implementations and
+                 Performance
+                 Eric Hubbard and Carole M. McNamee
+                 California State University, Sacramento, USA
+
+1:50 - 2:10pm:   Concurrent Programming for Database Processing Using
+                 Java Threads in a Client/Server Environment
+                 Brietta O'Leary and Cui Zhang
+                 California State University, Sacramento, USA
+
+2:10 - 2:30pm:   Database Methods for Efficient Manipulation of Very
+                 Large Datasets
+                 Renato Ferreira, Joel Saltz, and Alan Sussman
+                 University of Maryland, College Park, Maryland, USA
+
+2:30 - 2:50pm:   Adaptive Programming: Application to a Semi Supervised
+                 Point Prototype Clustering Algorithm
+                 Houda Lamehamedi, D. Kebbal, E-G Talbi, A. Bensaid,
+                 and A Benllaachia
+                 Rensselaer Ploytechnic Institute, Troy, New York, USA
+
+SESSION 6P:      MOBILE COMMUNICATIONS
+CHAIRS:          Youngsong Mun
+                 Soongsil University, Seoul, (South) Korea;
+                 Korea Information Processing Society (KIPS)
+                 June 28, 2:50 - 5:10pm
+                 (Location: Meeting Room 3)
+
+2:50 - 3:10pm:   Location Tracking with Pointer Forwarding and Jumping
+                 Pointer in Distributed HLR Environment
+                 Bo-Kyung Lee and Chong-Sun Hwang
+                 Seoul, (South) Korea
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   Dynamic Code Reservation Multiple Access for Supporting
+                 Intergrated Traffic in CDMA Systems
+                 EuiHoon Jeong, Ara Khil, and SeungRyoul Maeng
+                 Korea Advanced Institute of Science and Technology,
+                 (South) Korea
+
+3:50 - 4:10pm:   Predictive and Adaptive Bandwidth Reservation Strategies
+                 in Wireless Networks
+                 Ji-Young Lim, Mi-Hee Kim, and Ki-Joon Chae
+                 Ewha Women's University, Seoul, (South) Korea
+
+4:10 - 4:30pm:   Performance Analysis of Call Admission Scheme in
+                 Macro-Microcell Overlaid Cellular System
+                 Dong Myung Lee, Hong Seok Seong, Song In Choi,
+                 and Ki Chul Han
+                 Tajon, (South) Korea
+
+4:30 - 4:50pm:   A Handoff Rerouting Scheme in Wireless ATM
+                 Sungmin Choe, Youngsong Mun, and Hyunseung Choo
+                 Sungkyunkwan University, Suwon, (South) Korea
+
+4:50 - 5:10pm:   The Enhanced Channel Management Scheme in Cellular
+                 Networks
+                 Seung-Sun Hong and Tai-Myoung Chung
+                 Sungkyunkwan University, Suwon, (South) Korea
+
+8:00 - 10:00pm:  CONFERENCE RECEPTION
+                 June 28 (Monday)
+                 (Location: Meeting Rooms 4 and 5)
+
+SESSION 7P:      ENGINEERING OF RECONFIGURABLE HARDWARE/SOFTWARE
+                 OBJECTS - ENREGLE
+CHAIRS:          Toomas Plaks and Graham Megson
+                 University of Reading, Reading, UK
+                 June 28, 10:50 - 2:30pm
+                 (Location: Meeting Room 2)
+
+10:50 - 11:10am: Compile-Time Optimization of Dynamic Hardware
+                 Reconfigurations
+                 Juergen Teich, Sandor P. Fekete, and Joerg Schepers
+                 University of Paderborn, Paderborn, Germany
+
+11:10 - 11:30am: Hardware Object Selection for Mapping Loops onto
+                 Reconfigurable Architectures
+                 Kiran Bondalapati and Viktor K. Prasanna
+                 University of Southern California, Los Angeles, USA
+
+11:30 - 11:50am: Generalized Template Matching on Reconfigurable Systems
+                 Jack Jean, Xnejun Liang, and Karen Tomko
+                 Wright State University, Dayton, Ohio, USA
+
+11:50 - 12:10pm: Reconfigurable FPGA for Network Performance Evaluation
+                 Pong P. Chu and Robert E. Jones
+                 Cleveland State University, Cleveland, Ohio, USA
+
+12:10 - 12:30pm: Experiences Using Reconfigurable FPGAs in Implementing
+                 Monte-Carlo Methods
+                 Oswaldo Cadenas, Toomas P. Plaks, and Graham M. Megson
+                 University of Reading, Reading, UK
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+1:30 - 1:50pm:   A High Speed Reconfigurable Firewall Based On
+                 Parameterizable FPGA-Based Content Addressable Memories
+                 Alistair McEwan, Jonathan Saul, and Andrew Bailey
+                 Oxford University, Oxford, UK
+
+1:50 - 2:10pm:   Formal Derivation of Two Parallel Rendering Algorithms
+                 Theoharis Theoharis and Ali Abdallah
+                 University of Athens , Athens, Greece
+
+2:10 - 2:30pm:   Rapid Instantiation of Hardware Objects for
+                 Hardware/Software Codesign
+                 Ian Bland
+                 University of Reading, Reading, UK
+
+SESSION 8P:      HIGH-SPEED NETWORKS AND MOBILE COMPUTING
+CHAIR:           Mohsen Guizani
+                 University of Missouri, Columbia, Missouri, USA
+                 June 28, 2:30 - 5:10pm
+                 (Location: Meeting Room 2)
+
+2:30 - 2:50pm:   A Feedback Based UPC-Parameters Renegotiation Strategy
+                 in ATM
+                 Safiullah Faizullah and Arshad Shaikh
+                 Rutgers University, USA
+
+2:50 - 3:10pm:   Parallel Processing of Robotics Inverse Dynamics
+                 Computational Tasks of a Two-Rotational-Link Robot
+                 Khaja Qutubuddin and Daniel Pease
+                 Syracuse University, New York, USA
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   Calculating Buffer Requirements and Access Time for
+                 ABR and VBR Traffic: Shared Approach
+                 E. Atieh and M. Matalgah
+                 Sprint and Sprint PCS, USA
+
+3:50 - 4:10pm:   Calculating Buffer Requirements and Access Time for
+                 ABR and VBR Traffic: Dedicated Approach
+                 E. Atieh and M. Matalgah
+                 Sprint and Sprint PCS, USA
+
+4:10 - 4:30pm:   Transaction Processing Using Asynchronous Broadcasting
+                 on Mobile Client-Server Databases
+                 IlYoung Chung and Chong-Sun Hwang
+                 Korea University, Seoul, Korea
+
+4:30 - 4:50pm:   Adapting a Mobile Information Announcement System for
+                 Network Connectivity
+                 Shigeaki Tagashira, Osamu Yasuda, Keizo Saisho, and
+                 Akira Fukuda
+                 Nara Institute of Science and Technology, Japan
+
+4:50 - 5:10pm:   A Cache System of Location Dependent Data for a Mobile
+                 Computer with Mobility Specification
+                 Kenya Sato*, Keizo Saisho**, and Akira Fukuda**
+                 *Sumitomo Electoric Industries, Ltd, Japan
+                 **Nara Institute of Science and Technology, Japan
+
+8:00 - 10:00pm:  CONFERENCE RECEPTION
+                 June 28 (Monday)
+                 (Location: Meeting Rooms 4 and 5)
+
+                       JUNE 29, 1999 - TUESDAY
+                       =======================
+
+7:00am - 5:00pm: REGISTRATION (Second Floor, Conference Section)
+
+8:30 - 10:50am:  DISCUSSION SESSION B + REFRESHMENTS
+                 RRA + SRP + Poster Papers
+                 Three time periods: 8:30 - 9:15am;  9:15 - 10:00am; and
+                     10:00 - 10:45am
+                 (Location: Meeting Rooms 1, 2, 3 and Conference Hallways)
+                 (List of Papers appended)
+
+PARALLEL SESSIONS:
+
+SESSION 9P:      TOOLS, LANGUAGES, AND PROGRAMMING ENVIRONMENTS
+CHAIRS:          Rajkumar Buyya* and Toni Cortes**
+                  *Monash University, Australia
+                  **Universitat Polit`ecnica de Catalunya, Spain
+                 June 29, 10:50am - 5:10pm
+                 (Location: Meeting Room 5)
+
+10:50 - 11:10am: A Real-Time and Distributed System with Programming
+                 Language Abstraction
+                 Erhan Saridogan and Nadia Erdogan
+                 Turkish Navy, Istanbul, Turkey
+
+11:10 - 11:30am: MESH: MEssaging and ScHeduling for Fine-Grain
+                 Parallel Processing on Commodity Platforms
+                 M. Boosten*, R. W. Dobinson**, and
+                 P. D. V. van der Stok*
+                 *Eindhoven University of Technology, Netherlands
+                 **CERN, European Labs for Particle Physics, Geneva,
+                 Switzerland
+
+11:30 - 11:50am: Mechanisms for Programming SMP Clusters
+                 Attila Gursoy and Ilker Cengiz
+                 Bilkent University, Ankara, Turkey
+
+11:50 - 12:10pm: The MPI-Delphi Interface: A Visual Programming
+                 Environment for Cluster of Workstations
+                 M. Acacio, P.E. Lspez-de-Teruel, J.M. Garcma, and
+                 O. Canovas
+                 University of Murcia, Murcia, Spain
+
+12:10 - 12:30pm: EDPEPPS: A Graphical Environment for the Parallel
+                 Software Development Life-Cycle
+                 T. Delaitre, M. J. Zemerly, G. R. Justo, and
+                 S. C. Winter
+                 University of Westminster, London, UK
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+1:30 - 1:50pm:   A Distributed Object-Oriented Parallel Computing
+                 Environment Based on Java/CORBA
+                 Chi-Chang Chen and Kin-Hsing Hsieh
+                 I-Shou University, Taiwan, R.O.C.
+
+1:50 - 2:10pm:   Compiling Data-parallel Programs to A Distributed
+                 Runtime Environment with Thread Isomigration
+                 Gabriel Antoniu, Luc Bouge, Christian Perez,
+                 and Raymond Namyst
+                 Ecole Normale Suprieure of Lyon, Lyon, France
+
+2:10 - 2:30pm:   Speedup and Scalability of SPMD Computations on
+                 Workstation Clusters
+                 Kemal Efe and Putchong Uthayopas
+                 University of Southwestern Louisiana, Lafayette,
+                 Louisiana, USA
+                 Bilkent University, Ankara, Turkey
+
+2:30 - 2:50pm:   FIRST: A Framework for Interoperable Resources,
+                 Services, and Tools
+                 Radu Prodan* and John M. Kewley**
+                 *Universitat Basel, Basel, Switzerland
+                 **Swiss Center for Scientific Computing (CSCS), Manno,
+                 Switzerland
+
+2:50 - 3:10pm:   Interactive Visualization of Massive Remote
+                 Scientific Datasets
+                 Martin Aeschlimann, Loukas Kallivokas, Julio Lopez, and
+                 David O'Hallaron
+                 Carnegie Mellon University, Pittsburgh, USA
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   Coordinating Distributed Objects
+                 Atef Bader and Tzilla Elrad
+                 Illinois Institute of Technology, Chicago, USA
+
+3:50 - 4:10pm:   Program Flow Graph Construction for Static Analysis of
+                 MPI Programs
+                 Dale Shires**, Lori Pollock*, and Sara Sprenkle***
+                 *University of Delaware, Newark, Delaware, USA
+                 **U.S. Army Research Lab., APG, MD, USA
+                 ***Gettysburg College, Gettysburg, PA, USA
+
+4:10 - 4:30pm:   Introducing Dynamic Data Structures to Mobile Agents
+                 Munehiro Fukuda*, Naoya Suzuki*, and Lubomir F. Bic**
+                 *University of Tsukuba, Ibaraki, Japan
+                 **University of California, Irvine, California, USA
+
+4:30 - 4:50pm:   InterComm: An Integrated Communication Services
+                 Architecture for Advanced Network Applications
+                 Ian Foster, Brian Toonen, and Steven Tuecke
+                 Argonne National Laboratory, Argonne, Illinois, USA
+
+4:50 - 5:10pm:   Using MeDLey for the Grid-Decomposition Methods
+                 Tawfik Es-sqalli, Eric Dillon, and Jacques Guyard
+                 LORIA, Vandoeuvre-Lhs-Nancy, France
+
+SESSION 10P:     MULTIMEDIA COMMUNICATIONS, SYSTEMS, AND APPLICATIONS
+CHAIR:           Sherali Zeadally
+                 University of Southern California, Los Angeles, USA
+                 June 29, 10:50am - 12:30pm
+                 (Location: Meeting Room 4)
+
+10:50 - 11:10am: A Questionaire Based Method for the Evaluation of
+                 Multimedia Interactive Pedagogical Software
+                 S. Crozat, O. Hu, and P. Trigano
+                 Universite de Technologie de Compiegne, France
+
+11:10 - 11:30am: MPEG Video Encryption in Real-Time Using Secret Key
+                 Cryptography
+                 C. Shi, S. Wang, and B. Bhargava
+                 Purdue University, West Lafayette, Indiana, USA
+
+11:30 - 11:50am: Supporting Guaranteed Services in Packet Switched
+                 Networks: A Study of Two Alternative Methods
+                 F. Ball and P. Callinan
+                 Oxford Brookes University, UK
+
+11:50 - 12:10pm: Design and Implementation of a QoS-aware Networking
+                 Application Programming Interface
+                 S. Zeadally, X. Chen, and W. Cui
+                 University of Southern California, Los Angeles, USA
+
+12:10 - 12:30pm: A Statistical Approach to Filtering Unstructured Text
+                 and Retrieving Context
+                 J. F. Stach and E. K. Park
+                 University of Missouri at Kansas City, Missouri, USA
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+SESSION 11P:     CURRENT LIMITS TO AUTOMATED VERIFICATION FOR DISTRIBUTED
+                 SYSTEMS
+CHAIR:           G. M. Reed
+                 Oxford University, Oxford, UK
+                 June 29, 1:30 - 6:00pm
+                 (Location: Meeting Room 4)
+
+1:30 - 2:00pm:   Data Independence and Many-valued Predicates
+                 R. S. Lazic and Bill Roscoe
+                 Oxford University, UK
+
+2:00 - 2:30pm:   Formal Verification of Arbitrary Network Topologies:
+                 Extended Abstract
+                 Sadie Creese and Bill Roscoe
+                 Oxford University, Oxford, UK
+
+2:30 - 3:00pm:   A Challenge to Formal Methods: Routing Protocols
+                 Joy Reed**, G. M. Reed*, and Jane Sinclair***
+                 *Oxford University, UK
+                 **Oxford Brookes University, UK
+                 ***Warrick University, UK
+
+3:00 - 3:30pm:   BREAK
+
+3:30 - 4:00pm:   Trace Theory and State Explosion
+                 Mike Mislove
+                 Tulane University, USA
+
+4:00 - 4:30pm:   Model-Checking Temporal Behaviour in CSP
+                 Joel Ouaknine and G. M. Reed
+                 Oxford University, UK
+
+4:30 - 5:00pm:   Generalized Stuttering Equivalence
+                 Somesh Jha* and Doron Peled**
+                 *Carnegie Mellon University, USA
+                 **Bell Laboratories, USA
+
+5:00 - 5:30pm:   On the Fly Verification of Networks of Automata
+                 Stefania Gnesi and Franco Mazzanti
+                 Istituto di Elaborazione dell'Informazione,
+                 Pisa, Italy
+
+5:30 - 6:00pm:   Runtime Assurance Based On Formal Specifications
+                 Insup Lee, Smpath Kannan, Moonjo Kim, Oleg Sokolsky,
+                 and Mahesh Viswanathan
+                 University of Pennsylvania, USA
+
+SESSION 12P:     QUALITY OF SERVICE IN HIGH-PERFORMANCE DISTRIBUTED
+                 SYSTEMS
+CHAIRS:          Muthucumaru Maheswaran and Peter Graham
+                 University of Manitoba, Winnipeg, Canada
+                 June 29, 10:50am - 12:10pm
+                 (Location: Meeting Room 3)
+
+10:50 - 11:10am: Using User Hints to Guide Resource Management for
+                 Quality of Service
+                 Michael J. Katchabaw, Hanan L. Lutfiyya, and
+                 Michael A. Bauer
+                 University of Western Ontario, Canada
+
+11:10 - 11:30am: Quality of Service Attributes in Hierarchical System
+                 for Global Information Dissemination
+                 Surjamukhi Chatterjea, Edwin K. P. Chong, and
+                 Howard Jay Siegel
+                 Purdue University, West Lafayette, Indiana, USA
+
+11:30 - 11:50am: Design and Implementation of a Simulation Tool for
+                 QoS Management over the Internet
+                 Ming Hou and Hussein T. Mouftah
+                 Queen's University, Kingston, Ontario, Canada
+
+11:50 - 12:10pm: Quality of Service Driven Resource Management
+                 Algorithms for Network Computing
+                 Muthucumaru Maheswaran
+                 University of Manitoba, Winnipeg, Canada
+
+SESSION 12P+:    SCIENTIFIC COMPUTATION
+                 (One Paper Only)
+CHAIRS:          Muthucumaru Maheswaran and Peter Graham
+                 University of Manitoba, Winnipeg, Canada
+                 June 29, 12:10 - 12:30pm
+                 (Location: Meeting Room 3)
+
+12:10 - 12:30pm: An efficient Parallel EM Algorithm: A Sparse Matrix
+                 Compaction Technique
+                 Wei-Min Jeng and Stephen Huang
+                 University of Houston, Texas, USA
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+SESSION 13P:     INTERNET AND MULTIMEDIA
+CHAIRS:          Tai-Myoung Chung
+                 Korea Information Processing Society (KIPS)
+                 June 29, 1:30 - 5:10pm
+                 (Location: Meeting Room 3)
+
+1:30 - 1:50pm:   Fair Packet Marking
+                 Hyogon Kim
+                 Seoul, (South) Korea
+
+1:50 - 2:10pm:   Design and Implementation of a Java-based
+                 Synchronized Multimedia Integration Language Player
+                 Dongil Shin and Dongkyoo Shin
+                 Sejong University, Seoul, (South) Korea
+
+2:10 - 2:30pm:   Analysis of Public Key Infrastructure Systems for
+                 Authentication
+                 Jae-Woo Kim, Han-Jin Cho, Il-Sun Hwang, Sug-Yul Park
+                 and Jae-Kwang Lee
+                 Hannam University, Taejeon, (South) Korea
+
+2:30 - 2:50pm:   An Efficient and Secure Electronic Micropayment
+                 Systems Using Nonce-based Authentication Protocol
+                 Youngdal Kim, Kwanho Song, and Sunyoung Han
+                 Konkuk University, Seoul, (South) Korea
+
+2:50 - 3:10pm:   A Real Time Presentation Method for Playing of a
+                 Hyperpresentation Mail on Internet
+                 Younghwan Lim
+                 Soongsil University, Seoul, (South) Korea
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   Efficient Transmission Technique of VBR-MPEG Video
+                 for Interactive Video Service
+                 SeungYun Lee, KyungTak Kim, and HwangBin Ryou
+                 Kwangwoon University, Seoul, (South) Korea
+
+3:50 - 4:10pm:   A Buffering Algorithm for Providing the Truly
+                 Interactive Video-On-Demand Services
+                 Backhyun Kim and Iksoo Kim
+                 University of Inchon, Inchon, (South) Korea
+
+4:10 - 4:30pm:   Hybrid Video Retrieval System Supporting
+                 Spatiotemporal Correlation, Similarity Retrieval
+                 and Query Reformulation
+                 Mi Hee Yoon, Kio Chung Kim, and Yong Ik Yoon
+                 Sookmyung women's University, Seoul, (South) Korea
+
+4:30 - 4:50pm:   Cooperative Web Computing Environment with
+                 Multi-Managing Method
+                 Hye-Seon Maeng, Tack-Don Han, and Shin-Dug Kim
+                 Yonsei University, Seoul, (South) Korea
+
+4:50 - 5:10pm:   FREE SLOT
+
+SESSION 14P:     MOBILE COMPUTING, MULTI-MEDIA, AND HIGH-SPEED NETWORKS
+CHAIRS:          Hiroaki Nishikawa
+                 University of Tsukuba, Japan
+                 June 29, 10:50am - 12:30pm
+                 (Location: Meeting Room 2)
+
+10:50 - 11:10am: Whole Data Visualization by Similarity Degree for
+                 Mobile and Adaptive Information Retrieval
+                 Kohei Yoshikawa* and Heiichi Yamamoto**
+                 *Sharp Corporation, Japan
+                 **Nara Institute of Science and Technology, Japan
+
+11:10 - 11:30am: An Implementation of a Hybrid Architecture of the
+                 Java Run-time Environment and a Real-time OS
+                 Yukikazu Nakamoto, Kazutoshi Usui, and Yoshiaki Asakura
+                 NEC Corporation, Japan
+
+11:30 - 11:50am: Super-Integrated Data-Driven Processor for TINA-kTN
+                 Protocol Handling
+                 Kazuhiro Aoki*, Hirohsi Ishii**, Souichi Miyata***,
+                 and Hiroaki Nishikawa*
+                 *University of Tsukuba, Japan
+                 **NTT Corporation, Japan
+                 ***Sharp Corporation, Japan
+
+11:50 - 12:10pm: Implementation of Coordination Primitives in a Mobile
+                 Architecture
+                 S. Gnesi and L. Semini
+                 Instituto di Elaborazione dell'Informazione, Pisa, Italy
+
+12:10 - 12:30pm: Movement Locality-based Location Tracking Strategy
+                 Reducing Location Management Cost in Mobile Computing
+                 Systems
+                 Kwon Woo Yang, JoonMin Gil, Kibom Kim, and
+                 Chong-Sun Hwang
+                 Korea University, Seoul, (South) Korea
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+SESSION 15P:     PARALLEL PROCESSING SYSTEMS AND ARCHITECTURES
+CHAIRS:          Hong Shen
+                 Griffith University, Nathan, Australia
+                 June 29, 1:30 - 5:10pm
+                 (Location: Meeting Room 2)
+
+1:30 - 1:50pm:   Performance Prediction for Large Scale Parallel Systems
+                 Yuhong Wen and Geoffrey C. Fox
+                 Syracuse University, Syracuse, New York, USA
+
+1:50 - 2:10pm:   COMR: Cluster Oriented Multistage Interconncetion
+                 Network
+                 Chang-hoon Choi, Young-hak Kim, and Sung-chun Kim
+                 Sangju National University, Kyungbuk, (South) Korea
+
+2:10 - 2:30pm:   One Terabit per Second Realtime Processing:
+                 The HERA-B First Level Trigger
+                 J. Glaess*, A. Gropl*, C. Hahnel*, T. Wolf*, A. Wurz*,
+                 R. Maenner*, E. Gerndt**, H. Itterbeck**, D. Kahnert**,
+                 F. Ratnikov**, and D. Ressing**
+                 *University of Mannheim, Mannheim, Germany
+                 **DESY, Hamburg, Germany
+
+2:30 - 2:50pm:   Deductive Query Processing with an Object-Oriented
+                 Semantic Network in the Massively Parallel Environment
+                 Sang Hyun Oh and Won Suk Lee
+                 Yonsei University, Seoul, (South) Korea
+
+2:50 - 3:10pm:   JANEC: Java-based Network Computer System
+                 Seogchan Hwang, Jaeyoung Choi*, and Myungho Kim
+                 Soongsil University, Seoul, (South) Korea
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   Efficiency of Interprocessor Communication and the
+                 Performance of Optimistic Protocol on the IBM SP2 and
+                 a Cluster of Sun Ultra Workstations
+                 Eunmi Choi and Dugki Min
+                 Handong University, Kyungbuk, (South) Korea
+
+3:50 - 4:10pm:   Component-Oriented Digital Signal Processors
+                 Cheng Chang and Tai-Chung Wang
+                 Chung Shan Institute of Science and Technology, R.O.C.
+
+4:10 - 4:30pm:   FREE SLOT
+
+4:30 - 4:50pm:   Cooperative Cache Management in S2FS File System
+                 Wang, Zhu, and Xu
+                 Chinese Academy of Sciences, Beijing, P. R. China
+
+4:50 - 5:10pm:   Distributed Parallel Information Retrieval System: A
+                 Parallel Virtual Machine Implementation
+                 T. H. Daoud* and A. Bellaachia**
+                 *Florida Institute of Technology, Florida, USA
+                 **Sleiman Technologies Inc., Virginia, USA
+
+                       JUNE 30, 1999 - WEDNESDAY
+                       =========================
+
+7:00am - 5:00pm: REGISTRATION (Second Floor, Conference Section)
+
+PARALLEL SESSIONS:
+
+SESSION 16P:     TEACHING NETWORKING, CONCURRENT, AND DISTRIBUTED
+                 TECHNIQUES IN JAVA
+CHAIRS:          Rodney S. Tosten* and Paul T. Tymann**
+                 *Gettysburg College, Gettysburg, Pennsylvania, USA
+                 **Rochester Institute of Technology, New York, USA
+                 June 30, 8:30 - 10:30am
+                 (Location: Meeting Room 5)
+
+8:30 - 8:50am:   FREE SLOT
+
+8:50 - 9:10am:   Teaching Network Performance Measurement Using Java
+                 When The Students Do Not Already Know Java
+                 Phillip T. Conrad and Ben Greenstein
+                 Temple University, Philadelphia, Pennsylvania, USA
+
+9:10 - 9:30am:   From Practical CASE to Formal Verification: Software
+                 Engineering Using Java
+                 P. G. Clayton** and G. S. Stiles*
+                 *Utah State University, Logan, Utah, USA
+                 **Rhodes University, South Africa
+
+9:30 - 9:50am:   SimNetwork: A Java-Based Computer Network Simulator
+                 Zachary Charmoy and LoriLee M. Sadler
+                 DePaul University, Chicago, Illinois, USA
+
+9:50 - 10:10am:  Course in Distributed Computing Using Java
+                 Daniel C. Hyde
+                 Bucknell University, Lewisburg, Pennsylvania, USA
+
+10:10 - 10:30am: Using Java Remote Method Invocation in a Parallel and
+                 Distributed Processing Course
+                 Rodney S. Tosten*, Christyann Ferraro, Sara Sprenkle,
+                 Brad Steiner, and Paul T. Tymann**
+                 *Gettysburg College, Gettysburg, Pennsylvania, USA
+                 **Rochester Institute of Technology, New York, USA
+
+10:30 - 10:50am: BREAK
+
+SESSION 17P:     TELECOMMUNICATIONS NETWORK MANAGEMENT SYSTEMS
+CHAIR:           Sandeep K. Shukla
+                 Intel Corporation, Santa Clara, California, USA
+                 June 30, 10:50am - 12:10pm
+                 (Location: Meeting Room 5)
+
+10:50 - 11:10am: Enabling Accounting, Configuration and Fault
+                 Management for Multi-technology Broadband Connections
+                 Among Operators Through an X-type Interface
+                 K. Berdekas*, F. Karayannis*, R. Diaz**, A. Martinez**,
+                 and M. Theologue*
+                 *National Technical University of Athens, (NTUA),
+                 Athens, Greece
+                 **Universitat Politecnica de Catalunya, Barcelona, Spain
+
+11:10 - 11:30am: Multi-Architecture Evolution of SNMP-managed ATM
+                 Networks Towards TMN Interfaces
+                 K. Berdekas*, E. Jae'n***, N. Silva**, G. Liu****,
+                 L. Raptis*, N. Nikolaou*, and J. Serrat***
+                 *National Technical University of Athens, (NTUA),
+                 Athens, Greece
+                 **CET, Aveiro, Portugal
+                 ***Universitat Politecnica de Catalunya, (UPC),
+                 Barcelona, Spain
+                 ****GMD Fokus, Berlin, Germany
+
+11:30 - 11:50am: On the Design and Test of Critical Service Application
+                 in a Telecommunication Management System
+                 G. C. Penido, R. A. V Leite, J. M. S. Nogueira, and
+                 A. A. F. Loureiro*
+                 Federal University of Minas Gerais, Brazil
+
+11:50 - 12:10pm: A CORBA Based Infrastructure for Information Interchange
+                 in Among Domain Specific Management Systems
+                 A. Saxena, S. Shukla, R. Weihmayer, and P. Wu
+                 GTE Laboratories, Waltham, Massachusetts, USA
+
+SESSION 18P:     PARALLEL MULTI-PROGRAM SIMULATIONS OF COMPLEX
+                 SCIENTIFIC AND ENGINEERING PROBLEMS
+CHAIRS:          Eric de Sturler and Jay Hoeflinger
+                 University of Illinois at Urbana-Champaign, USA
+                 June 30, 12:10 - 3:10pm
+                 (Location: Meeting Room 5)
+
+12:10 - 12:30pm: Computer Science Research in Support of TeraScale Simulation
+                 John V. W. Reynders
+                 Los Alamos National Laboratory, Los Alamos, New Mexico, USA
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+1:30 - 1:50pm:   Using Effective Network Views to Promote Distributed
+                 Application Performance
+                 Gary Shao, Fran Berman, and Rich Wolski
+                 University of California, San Diego, California, USA
+
+1:50 - 2:10pm:   Infrastructure and Interfaces for Large-Scale
+                 Numerical Software
+                 Lori Freitag, Bill Gropp, Paul Hovland, Lois McInnes,
+                 and Barry Smith
+                 Argonne National Laboratory, Argonne, Illinois, USA
+
+2:10 - 2:30pm:   Issues in Parallel Multi-program Simulations
+                 M. Bhandarkar, E. de Sturler, and J. Hoeflinger
+                 University of Illinois at Urbana-Champaign, Urbana,
+                 Illinois, USA
+
+2:30 - 2:50pm:   Issues and Approaches in Parallel Multi-Component and
+                 Multi-Physics Simulation
+                 Thomas J. Downar, Rudolf Eigenmann, and Jose A. B. Fortes
+                 Purdue University, West Lafayette, Indiana, USA
+
+2:50 - 3:10pm:   Coupled Multi-Physics Simulations of Solid Rocket Motors
+                 I. D. Parsons, P. Alavilli, A. Namazifard, J. Hales,
+                 F. Najjar, and D. Tafti
+                 University of Illinois at Urbana-Champaign, USA
+
+3:10 - 3:30pm:   BREAK
+
+SESSION 19P:     PARALLEL AND SEQUENTIAL NUMERICAL METHODS FOR
+                 THE SOLUTION OF DIFFERENTIAL EQUATIONS
+CHAIR:           TO BE ANNOUNCED LATER
+                 June 30, 3:30 - 5:10pm
+                 (Location: Meeting Room 5)
+
+3:30 - 3:50pm:   A Parallel ODE Solver Adapted to Oscillatory Problems
+                 J. Vigo-Aguiar and L. M. Quintales
+                 University of Salamanca, Salamanca, Spain
+
+3:50 - 4:10pm:   A Scalable Parallel Domain Decomposition Algorithm for
+                 Solving Time Dependent Partial Differential Equations
+                 Wilson Rivera and Jianping Zhu
+                 Missisippi State University, Missisippi, USA
+
+4:10 - 4:30pm:   A Parallel Linearly Implicit Method for Stiff IVPs
+                 D. A. Voss
+                 Western Illinois University, Illinois, USA
+
+4:30 - 4:50pm:   The local Haar Condition in Parameter Estimation
+                 for Second Order Ordinary Differential Equatinos
+                 Z. Kalogiratou* and Jack Williams**
+                 *Technological Education Institute of Western
+                 Macedonia
+                 **UMIST, Manchester, UK
+
+4:50 - 5:10pm:   FREE SLOT
+
+SESSION 20P:     MODELS, ALGORITHMS, AND APPLICATIONS
+CHAIR:           David A. Grossman
+                 US Government, Washington, DC, USA
+                 June 30, 8:30am - 5:10pm
+                 (Location: Meeting Room 4)
+
+8:30 - 8:50am:   Algorithmic Issue for Distributed Heterogeneous
+                 Computing Platforms
+                 Vincent Voudet, Fabrice Rastello, and Yves Robert
+                 LIP, Ecole Normale Superieure de Lyon, Lyon, France
+
+8:50 - 9:10am:   Multivariate Geographic Clustering Using a
+                 Beowulf-style Parallel Computer
+                 Forrest M. Hoffman and William W. Hargrove
+                 Oak Ridge National Laboratory, Tennessee, USA
+
+9:10 - 9:30am:   High Performance Clusters: A Promising Environment
+                 for Parallel Discrete Event Simulation
+                 Cong-Duc Pham
+                 Universite Lyon 1, Villeurbanne, France
+
+9:30 - 9:50am:   Climate Ocean Modeling on a Beowulf Class System
+                 Benny N. Cheng*, Ping Wang, Yi Chao, and
+                 Michael Bondarenko**
+                 *Jet Propulsion Laboratory, California Institute of
+                 Technology, Pasadena, California, USA
+                 **User Tech. Associates, Inc., California, USA
+
+9:50 - 10:10am:  A Proxy Server Supporting Document Categorization
+                 Cheng-Kang, Shang-Rong, and Feng
+                 National Cheng Kung University, Taiwan, R.O.C.
+
+10:10 - 10:30am: Towards a Uniform Modeling Technique for Resource-usage
+                 Scenarios
+                 Lothar Baum and Thorsten Kramp
+                 University of Kaiserslautern, Kaiserslautern, Germany
+
+10:30 - 10:50am: BREAK
+
+10:50 - 11:10am: Parallel Solution for Progressive Hierarchical Radiosity
+                 L. Verbiese and E. Lepretre
+                 Universite des Sciences et Technologies de Lille, France
+
+11:10 - 11:30am: Parallel Computation of Parametric Piecewise Modeling
+                 Method
+                 Mohamed Imine and Hiroshi Nagahashi
+                 Tokyo Institute of Technology, Yokohama City, Japan
+
+11:30 - 11:50am: Optimizing Transformations of Stencil Operations for
+                 Parallel Cache-based Architectures
+                 Federico Bassetti and Kei Davis
+                 Los Alamos National Laboratory, Los Alamos, NM, USA
+
+11:50 - 12:10pm: Solving Asymmetric Traveling Salesman Problems Using
+                 Dynamic Scheduling on a Heterogeneous Computer Systems
+                 Janez Brest, Janez Zerovnik, and Viljem Zumer
+                 University of Maribor, Slovenia
+
+12:10 - 12:30pm: An Efficient Distributed Algorithm for the
+                 Biconnected-components Updating Problem
+                 Jungho Park, Toshimitsu Masuzawa, and Hyungsik Choi
+                 SunMoon University, Chungnam, (South) Korea
+
+12:30 - 1:30pm:  LUNCH
+
+1:30 - 1:50pm:   From Sight to Sound: Distributed Intervisibility
+                 Analysis and Radio Planning
+                 Andrew Ware
+                 University of Glamorgan, Pontypridd, South Wales, UK
+
+1:50 - 2:10pm:   Digital Library Information Categorization,
+                 Visualization, and Retrieval
+                 Ken Alford, J. X. Chen, and O. Frieder
+                 George Mason University, Fairfax, Virginia, USA
+
+2:10 - 2:30pm:   Techniques for Gigabyte-Scale N-gram Based Information
+                 Retrieval on Personal Computers
+                 Ethan Miller, Charles Nicholas*, and Ting Chen
+                 University of Maryland, Baltimore, Maryland, USA
+
+2:30 - 2:50pm:   A Parallel Algorithm for Object Contour Extraction
+                 within a Spiral Architecture
+                 Xiangjian He and Tom Hintz
+                 University of Technology, Sydney, Australia
+
+2:50 - 3:10pm:   Partial Re-execution: Reconciling Transactions to
+                 Increase Concurrency in Objectbases
+                 Ahmad Reza Hadaegh
+                 Nortel Broadband Wireless Access, Winnipeg, Canada
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   A Space Efficient Algorithm in Global Predicate Detection
+                 Tong-ying Juang and Shung-Yung Wang
+                 National Chung Hsing University, Taipei, Taiwan, R.O.C.
+
+3:50 - 4:10pm:   Platform Independent Data Transfer and Storage
+                 Exploration Illustrated on a Parallel Cavity Detection
+                 Algorithm
+                 Koen Danckaert*, Francky Catthoor**, and Hugo De Man**
+                 *IMEC, Leuven, Belgium
+                 **Katholieke Universiteit Leuven, Belgium
+
+4:10 - 4:30pm:   Data Distribution Models for a Structured Distributed
+                 Shared Memory System
+                 Brian Vinter*, Otto J. Anshus**, and Tore Larsen***
+                 *Institut for Datalogi Arhus University, Arhus, Denmark
+                 **Princeton University, New Jersey, USA
+                 ***Tromso University, Tromso, Norway
+
+4:30 - 4:50pm:   p: An Innovative Approach for Modeling Parallel
+                 Architectures
+                 R. Weper, E. Zehendner, and W. Erhard
+                 Friedrich Schiller University, Jena, Germany
+
+4:50 - 5:10pm:   Distributed, Reconfigurable Simulation in Harness
+                 Mauro Migliardi and Vaidy Sunderam
+                 Emory University, Atlanta, Georgia, USA
+
+SESSION 21P:     COMMUNICATIONS, NETWORKS, AND ROUTING
+CHAIRS:          Brian J. d'Auriol and Abdullah Abonamah
+                 University of Akron, Akron, Ohio, USA
+                 June 30, 8:30am - 3:10pm
+                 (Location: Meeting Room 3)
+
+8:30 - 8:50am:   A Multicast Protocol in QoS-Sensitive Environments
+                 Yujin Lim and JongWon Choe
+                 Sookmyung Women's University, Seoul, (South) Korea
+
+8:50 - 9:10am:   A Suboptimal Multicast Algorithm with Delay and
+                 Delay Variation Constraint in Mesh Networks
+                 ByeongNam Yoon, SunYoung Kim, Saangyong Uhmn,
+                 Kwangmo Lee, and Hongsik Choi
+                 Hallym University, (South) Korea
+
+9:10 - 9:30am:   Optimal Transmission Scheduling for All-to-all
+                 Broadcast in WDM Optical Passive Star Networks
+                 Youngho Park, Yonghwa Lee, Hongjin Yeh, Kyubum Wee,
+                 and Manpyo Hong
+                 Ajou University, Kyoungki-Do, (South) Korea
+
+9:30 - 9:50am:   ATOLL: A Network on a Chip
+                 Lars Rzymianowicz, Ulrich Bruening, Markus Fischer,
+                 Joerg Kluge, and Mathias
+                 Waack University of Mannheim, Mannheim, Germany
+
+9:50 - 10:10am:  The Effectiveness of the Programmed Backoff Method in
+                 the Presence of Background Traffic
+                 Norman Matloff
+                 University of California at Davis, California, USA
+
+10:10 - 10:30am: GAMMA on DEC 2114x with Efficient Flow Control
+                 G. Chiola, G. Ciaccio, L.V. Mancini, and P. Rotondo
+                 University of Genoa, Genoa, Italy
+
+10:30 - 10:50am: BREAK
+
+10:50 - 11:10am: On the Design and Semantics of User-space Communication
+                 Subsystems
+                 Thomas M. Warschko, Joachim M. Blum, and Walter F. Tichy
+                 University of Karlsruhe, Karlsruhe, Germany
+
+11:10 - 11:30am: Routing Tag Encoding in Self-Routing Multicast Networks
+                 Yuanyuan Yang
+                 University of Vermont, Burlington, Vermont, USA
+
+11:30 - 11:50am: Software Fault Injection in Concurrent Systems
+                 Wu Wen
+                 Science University of Tokyo, Chiba, Japan
+
+11:50 - 12:10pm: Multithreaded Data Transfer over Parallel Links
+                 Janche Sang
+                 Cleveland State University, Cleveland, Ohio, USA
+
+12:10 - 12:30pm: Modeling the CAN Protocol Within the VCC Environment
+                 Juergen Ehret**, Paolo Giusto*, and Igal Gutkin*
+                 *Cadence Design Systems, Sunnyvale, California, USA
+                 **BMW Technology Office USA, Palo Alto, California, USA
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+1:30 - 1:50pm:   A Prototype Framework for Modelling Communication in
+                 Multicomputers
+                 P. Haddow
+                 Norwegian University of Science & Technology, Norway
+
+1:50 - 2:10pm:   A Holistic Classification to the Study of Optical
+                 Interconnection Networks
+                 Brian J. d'Auriol and Abdullah Abonamah
+                 University of Akron, Akron, Ohio, USA
+
+2:10 - 2:30pm:   Design of ATM Switch Architectures Using Optical
+                 Systems
+                 M. Guizani and D. Benhaddou
+                 University of Missouri Columbia, Missouri, USA
+
+2:30 - 2:50pm:   Multistage Fair Arbitration in Wormhole-Based Routers
+                 D. R. Avresky and N. Nachev
+                 Boston University, MA, USA
+
+2:50 - 3:10pm:   Layered Communications in Load-Balancing Models
+                 Yulu Qi and Jesbin Baidya
+                 Asian Institute of Technology, Pathumthani, Thailand
+
+3:10 - 3:30pm:   BREAK
+
+SESSION 22P:     MOBILE COMPUTING
+CHAIR:           Hyunseung Choo
+                 Korea Information Processing Society (KIPS)
+                 June 30, 3:30 - 5:10pm
+                 (Location: Meeting Room 3)
+
+3:30 - 3:50pm:   MDTMAC: A Medium Access Control Protocol for
+                 Multimedia Data Transmission Service over
+                 IEEE 802.11 Wireless LAN
+                 Woo-Jun Ye, Seong-Dae Jang, Jae-Yong Lee,
+                 and Kyoon-Ha Lee
+                 Inha University, Inchon, (South) Korea
+
+3:50 - 4:10pm:   A Simple and Low-Overhead Protocol for Causal
+                 Message Ordering in Mobile Computing Systems
+                 Saangyong Uhmn and Kwangmo Lee
+                 Hallym University, Kangwondo, (South) Korea
+
+4:10 - 4:30pm:   Enhanced Zone-Based Registration Scheme at
+                 Regarding User Mobility Pattern
+                 Gyu Tae Chang, Ryung Woo Lim, and KeeCheon Kim
+                 Kon-Kuk University, Seoul, (South) Korea
+
+4:30 - 4:50pm:   Design and Implementation of Foreign Agent for
+                 Mobile Node
+                 Myoungho Lee and Youngsong Mun
+                 Soongsil University, Seoul, (South) Korea
+
+4:50 - 5:10pm:   System Architecture for Supporting Mobile
+                 Applications by Using Proxy and Host Mobility
+                 Pyeong Jung Kim, Seok Hwan Yoon, and Seongil Jin
+                 Okchon College, ChungBuk, (South) Korea
+
+SESSION 23P:     LOAD BALANCING AND SCHEDULING
+CHAIRS:          TO BE ANNOUNCED LATER
+                 June 30, 8:30 - 11:50am
+                 (Location: Meeting Room 2)
+
+8:30 - 8:50am:   Asymmetric Load Balancing on a Heterogeneous Cluster
+                 of PCs
+                 Christopher A. Bohn, Gary B. Lamont*, Jeffrey K. Little,
+                 and Richard A.  Raines
+                 Air Force Institute of Technology, Wright-Patterson AFB,
+                 USA
+
+8:50 - 9:10am:   Batch Queueing in the WINNER Resource Management System
+                 Olaf Arndt, Bernd Freisleben, Thilo Kielmann,
+                 and Frank Thilo
+                 University of Siegen, Siegen, Germany
+                 Vrije Universiteit, Amsterdam, Netherlands
+
+9:10 - 9:30am:   Quantifying the Performance Improvement of Migration
+                 Mechanism in Load Distributing Systems
+                 Bertil Folliot, Yanal Haj Mahmoud*, and Pierre Sens
+                 Universite Pierre et Marie Curie, France
+
+9:30 - 9:50am:   Using On-line Job Monitoring for Dynamic
+                 Load Balancing of Parallel Applications
+                 Bettina Schnor and Stefan Petri
+                 University of Luebeck, Luebeck, Germany
+
+9:50 - 10:10am:  An Approach to Scheduling Parallel Applications in
+                 Network of Workstations
+                 Jemal H. Abawajy
+                 Carleton University, Ottawa, Canada
+
+10:10 - 10:30am: A Stochastic Load Balancing Algorithm for Internet
+                 Computing Environment
+                 Yuk-Yin Wong, Kin-Hong Lee, and Kwong-Sak Leung
+                 City University of Hong Kong, Hong Kong, P. R. China
+
+10:30 - 10:50am: BREAK
+
+10:50 - 11:10am: Online Scheduling of the Multiple Variant Programs
+                 Piotr Jedrzejowics and Izabela Wierzbowska
+                 Gdynia Maritime Academy, Gdynia, Poland
+
+11:10 - 11:30am: Scheduling Tasks with Communications Delays on
+                 Multi-Level Clusters
+                 Jean-Yves Colin, Patrice Colin, Mustafa Nakechbandi,
+                 and Frederic Guinand
+                 Universite du Havre, Havre, France
+
+11:30 - 11:50am: Evaluation of Scheduling Methods in the Network of
+                 Workstations with Heterogeneous Computation Power
+                 Young-Chul Shim and Jin-Sung Kim
+                 Hong-Ik University, Seoul, (South) Korea
+
+11:50 - 12:10pm: FREE SLOT
+
+12:10 - 12:30pm: FREE SLOT
+
+12:30 - 1:30pm:  LUNCH (On Your Own)
+
+SESSION 24P:     TOOLS, LANGUAGES, AND PROGRAMMING ENVIRONMENTS
+CHAIRS:          TO BE ANNOUNCED LATER
+                 June 30, 1:30 - 5:10pm
+                 (Location: Meeting Room 2)
+
+1:30 - 1:50pm:   Bringing Together Mobile Agents and Data Analysis
+                 in PSEs
+                 Omer F. Rana and David W. Walker
+                 Cardiff University, Cardiff, Wales, U.K.
+
+1:50 - 2:10pm:   An Assessment of MPI Environments for Windows NT
+                 K. Takeda*, N. K. Allsopp**, J. C. Hardwick***,
+                 P. C. Macey***, D. A. Nicole*, S. J.Cox*, and
+                 D. J. Lancaster*
+                 *University of Southampton, Southampton, UK
+                 **Parallel Applications Centre, Southampton, UK
+                 ***Microsoft Research Ltd, Cambridge, UK
+                 ****SER Systems Ltd, Nottingham, UK
+
+2:10 - 2:30pm:   Performance Evaluation of Two Programming Models
+                 for a Cluster of PC Biprocessors
+                 Franck Cappello, Olivier Richard, and Daniel Etiemble
+                 Universite Paris-Sud, Orsay, France
+
+2:30 - 2:50pm:   Nutilus: Its Concurrent and Distributed
+                 Characteristics and as a University Language
+                 Cirney Carneiro, Paulo Blauth Menezes, Tiago Veit,
+                 and Fernando D'Andrea
+                 II-UFRGS, Porto Alegre, Brazil
+
+2:50 - 3:10pm:   Benchmarking pthreads Performance
+                 Bronis R. de Supinski and John May
+                 Lawrence Livermore National Laboratory, Livermore,
+                 California, USA
+
+3:10 - 3:30pm:   BREAK
+
+3:30 - 3:50pm:   Multithreading-Based Coverification Technique of
+                 HW/SW Systems
+                 Mostafa Azizi*, El Mostapha Aboulhamid*, and
+                 Sofiene Tahar**
+                 *University of Montreal, Montreal, Canada
+                 **Concordia University, Quebec, Canada
+
+3:50 - 4:10pm:   On Time Optimal Supernode Shape
+                 Edin Hodzic* and Weijia Shang**
+                 *AT&T Laboratories, San Jose, California, USA
+                 **Santa Clara University, Santa Clara, Californ
