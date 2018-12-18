@@ -13,3 +13,4 @@ My primary responsibilities include teaching undergraduate Computer Science cour
 I am interested in exploring more effective ways to introduce students
 to computing and to teach courses in Computer Science.
 
+![UCSB Aerial](/images/ucsb-aerial.jpg)
