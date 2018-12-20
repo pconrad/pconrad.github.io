@@ -1,0 +1,7 @@
+	  {% if include.item.start_date and include.item.end_date %}
+          <p> {{ include.item.start_date | default: "1900-01-01" | date: "%Y" }} to
+	    {{ include.item.end_date | default: "1900-01-01" | date: "%Y" }} to
+	  </p>	  
+	  {% elsif include.item.start_date %}
+          <p> {{ include.item.start_date | default: "1900-01-01" | date: "%Y" }} to present</p>	  
+	  {% endif %}

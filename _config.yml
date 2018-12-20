@@ -246,7 +246,7 @@ defaults:
   # _service
   - scope:
       path: ""
-      type: service
+      type: "service"	
     values:
       layout: single
       author_profile: true

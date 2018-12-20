@@ -2,8 +2,8 @@
 title: "Santa Barbara High School, Computer Science Academy"
 collection: service
 type: "service"
-venue: "Santa Barbara High School"
 date: 2019-01-07
+start_date: 2019-01-07
 location: "Santa Barbara, CA"
 ---
 
