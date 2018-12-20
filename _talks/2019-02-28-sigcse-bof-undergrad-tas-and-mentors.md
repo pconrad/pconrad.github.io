@@ -7,10 +7,13 @@ date: 2019-02-28
 location: "Minneapolis, MN"
 ---
 
-Co-facilitator of a "Birds of a Feather" session, together with:
+Discussion leader/facilitator for "Birds of a Feather" session to discuss undergraduate TA/mentor
+programs in Computer Science at various stages in their evolution. Includes brief presentations by co-facilitators:
 * [Diba Mirza](https://cs.ucsb.edu/~dimirza)(UC Santa Barbara)
 * [Colleen Lewis](http://blogs.hmc.edu/lewis/)(Harvey Mudd College)
 * [Cynthia Lee](https://profiles.stanford.edu/48960)(Stanford University)
+
+# Abstract
 
 Undergraduates have been an important part of the teaching staff at
 many universities for decades, but this is not a universal
@@ -23,14 +26,18 @@ have already implemented such programs, and those who might be
 considering doing so, and want to share information about successes
 and challenges.
 
-Discussion Leader(s): Phill Conrad will facilitate the discussion and
+# Discussion Leader(s):
+
+Phill Conrad will facilitate the discussion and
 invite Colleen Lewis, Cynthia Lee and Diba Mirza to briefly speak
 about the Undergraduate TA/Mentor programs at their respective
 institutions. During the balance of the time participants will be
 invited to contribute ideas or ask questions related to the use of
 undergraduate TAs and mentors.
 
-Expertise of Discussion Leader(s): Diba Mirza and Phill Conrad are
+# Expertise of Discussion Leader(s):
+
+Diba Mirza and Phill Conrad are
 faculty in the Computer Science department at UC Santa Barbara, where
 they have created an undergraduate mentor program in the past two
 years. Colleen Lewis is an Associate Professor of CS at Harvey Mudd
@@ -40,6 +47,6 @@ knowledge. Cynthia Lee is a Lecturer in CS at Stanford University, and
 works closely with the longstanding undergraduate TA program in the
 department.
 
-For more information:
+# For more information:
 
 * Entry for SIGCSE 2019, BOF 9B on the [SIGCSE 2019 program](https://whova.com/embedded/session/sigcs_201902/486942/)

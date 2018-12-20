@@ -7,11 +7,15 @@ date: 2019-02-28
 location: "Minneapolis, MN"
 ---
 
-Co-facilitator of a "Birds of a Feather" session, together with:
+Co-facilitator of a "Birds of a Feather" session to identify needs,
+concerns, prior efforts, and future plans related to packaging curriculum
+materials.  Co-facilitated with:
 * [Austin Cory Bart](https://acbart.github.io/)(University of Delaware), 
 * [Michael Hilton](http://www.cs.cmu.edu/~mhilton/)
 * [Bob Edmison](https://github.com/bedmison)(Virginia Tech).
 
+
+# Abstract
 
 Packaging materials is a generalized term to capture a broad array of
 tasks (creating, revising, sharing, finding, crediting, etc.) for
@@ -25,7 +29,7 @@ curricular material creation and sharing, joining with broader efforts
 of standardization (e.g., CSSPLICE) and existing initiatives for
 creating repositories, tools, and materials.
 
-For more information:
+# For more information
 
 * Entry for SIGCSE 2019, BOF 10A on the [SIGCSE 2019 program](https://whova.com/embedded/session/sigcs_201902/488558/)
 * Home page for [SPLICE: Standards, Protocols, and Learning Infrastructure for Computing Education](https://cssplice.github.io/)

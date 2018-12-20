@@ -7,7 +7,16 @@ date: 2019-03-02
 location: "Minneapolis, MN"
 ---
 
-Special Session, including lightning talks and participant discussion.
+The goal of this special session is to help attendees who are committed to
+diversity and inclusion learn to talk about different dimensions of
+identity (e.g., race, class, gender, sex, sexuality, etc.).  Includes lightning talks and participant discussion, led by:
+* Moderator:[Cheryl A. Swanier](http://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-cheryl-a.-swanier), Claflin University. (Moderator)
+* [Jason T. Black](http://www.famu.edu/index.cfm?cis&BlackProfile), Florida A&M University. Topic: "Discussing Privilege, Racism, and Implicit Bias&mdash;from the Eyes of Black Men"
+* [Kamau Bobb](http://kamaubobb.com/), Georgia Tech. Topic: "Race Labels"
+* [April Browne](https://www.butte.edu/ou-search/?query=april+browne), Butte College.  Topic: "Family Friendly"
+* [Phillip T. Conrad](https://cs.ucsb.edu/~pconrad), UC Santa Barbara. Topic: "Gender and Sexuality"
+* [Colleen Lewis](http://blogs.hmc.edu/lewis/), Harvey Mudd College. Topic: "Ability and Ableism"
+* [Sheila Tejada](http://www-bcf.usc.edu/~stejada/), University of Southern California. Topic: "Model Minority"
 
 The goal of the session is to help attendees who are committed to
 diversity and inclusion learn to talk about different dimensions of
@@ -22,13 +31,6 @@ it to the larger SIGCSE audience.
 
 Complete list of presenters:
 
-* Moderator:[Cheryl A. Swanier](http://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-cheryl-a.-swanier), Claflin University. (Moderator)
-* [Jason T. Black](http://www.famu.edu/index.cfm?cis&BlackProfile), Florida A&M University. Topic: "Discussing Privilege, Racism, and Implicit Bias&mdash;from the Eyes of Black Men"
-* [Kamau Bobb](http://kamaubobb.com/), Georgia Tech. Topic: "Race Labels"
-* [April Browne](https://www.butte.edu/ou-search/?query=april+browne), Butte College.  Topic: "Family Friendly"
-* [Phillip T. Conrad](https://cs.ucsb.edu/~pconrad), UC Santa Barbara. Topic: "Gender and Sexuality"
-* [Colleen Lewis](http://blogs.hmc.edu/lewis/), Harvey Mudd College. Topic: "Ability and Ableism"
-* [Sheila Tejada](http://www-bcf.usc.edu/~stejada/), University of Southern California. Topic: "Model Minority"
 
 
 # Gender and Sexuality

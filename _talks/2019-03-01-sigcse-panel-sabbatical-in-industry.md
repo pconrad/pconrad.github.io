@@ -8,7 +8,6 @@ location: "Minneapolis, MN"
 ---
 
 Panel presentation along with:
-
 * [Ryan McFall](https://hope.edu/directory/people/mcfall-ryan/index.html), Hope College
 * [Zachary Kurmas](https://cis.gvsu.edu/public/staffListing/index.php?page=staff&fname=Zachary&lname=Kurmas), Grand Valley State University
 * [Dennis Frailey](https://mentis.uta.edu/explore/profile/dennis-frailey), Raytheon Company (Retired), and University of Texas at Arlington
