@@ -10,9 +10,9 @@ location: "Minneapolis, MN"
 Co-facilitator of a "Birds of a Feather" session to identify needs,
 concerns, prior efforts, and future plans related to packaging curriculum
 materials.  Co-facilitated with:
-* [Austin Cory Bart](https://acbart.github.io/)(University of Delaware), 
-* [Michael Hilton](http://www.cs.cmu.edu/~mhilton/)
-* [Bob Edmison](https://github.com/bedmison)(Virginia Tech).
+* [Austin Cory Bart](https://acbart.github.io/) (University of Delaware)
+* [Michael Hilton](http://www.cs.cmu.edu/~mhilton/) (Carnegie Mellon)
+* [Bob Edmison](https://github.com/bedmison) (Virginia Tech)
 
 
 # Abstract

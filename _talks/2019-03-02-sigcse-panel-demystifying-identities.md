@@ -10,7 +10,7 @@ location: "Minneapolis, MN"
 The goal of this special session is to help attendees who are committed to
 diversity and inclusion learn to talk about different dimensions of
 identity (e.g., race, class, gender, sex, sexuality, etc.).  Includes lightning talks and participant discussion, led by:
-* Moderator:[Cheryl A. Swanier](http://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-cheryl-a.-swanier), Claflin University. (Moderator)
+* Moderator: [Cheryl A. Swanier](http://www.claflin.edu/academics-research/faculty-research/meet-our-faculty/dr.-cheryl-a.-swanier), Claflin University. (Moderator)
 * [Jason T. Black](http://www.famu.edu/index.cfm?cis&BlackProfile), Florida A&M University. Topic: "Discussing Privilege, Racism, and Implicit Bias&mdash;from the Eyes of Black Men"
 * [Kamau Bobb](http://kamaubobb.com/), Georgia Tech. Topic: "Race Labels"
 * [April Browne](https://www.butte.edu/ou-search/?query=april+browne), Butte College.  Topic: "Family Friendly"
@@ -28,8 +28,6 @@ six lightning talks, individual reflection, small-group discussion,
 and a Q&A with presenters. This is a reprise of a special session held
 at the NCWIT Summit in 2018; it was well received and we hope to offer
 it to the larger SIGCSE audience.
-
-Complete list of presenters:
 
 
 
@@ -54,7 +52,7 @@ orientation, and invite attendees to discuss:
 * Cameron uses the pronouns “they/them/their.” Try using Cameron’s
   name and their pronouns in a sentence.
 
-For more information:
+# For more information:
 
 * Entry for SIGCSE 2019, Session 8I on the [SIGCSE 2019 program](https://whova.com/embedded/session/sigcs_201902/488464/)
 

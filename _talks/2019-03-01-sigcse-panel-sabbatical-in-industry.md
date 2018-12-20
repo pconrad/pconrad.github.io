@@ -7,7 +7,7 @@ date: 2019-03-01
 location: "Minneapolis, MN"
 ---
 
-Panel presentation along with:
+Panel presentation on the benefits of faculty taking on a short-term full-time role in industry during a sabaticcal or summer.  I discuss my experience as an AppFolio Faculty Fellow in Summer 2014.  Other presenters include:
 * [Ryan McFall](https://hope.edu/directory/people/mcfall-ryan/index.html), Hope College
 * [Zachary Kurmas](https://cis.gvsu.edu/public/staffListing/index.php?page=staff&fname=Zachary&lname=Kurmas), Grand Valley State University
 * [Dennis Frailey](https://mentis.uta.edu/explore/profile/dennis-frailey), Raytheon Company (Retired), and University of Texas at Arlington

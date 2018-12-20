@@ -183,6 +183,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  service:
+    output: true
+    permalink: /:collection/:path/    
 
 
 # Defaults
@@ -231,13 +234,21 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: true
   # _talks
   - scope:
       path: ""
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _service
+  - scope:
+      path: ""
+      type: service
+    values:
+      layout: single
       author_profile: true
       share: true
 

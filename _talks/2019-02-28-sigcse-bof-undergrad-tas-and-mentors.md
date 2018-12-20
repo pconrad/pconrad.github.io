@@ -9,9 +9,9 @@ location: "Minneapolis, MN"
 
 Discussion leader/facilitator for "Birds of a Feather" session to discuss undergraduate TA/mentor
 programs in Computer Science at various stages in their evolution. Includes brief presentations by co-facilitators:
-* [Diba Mirza](https://cs.ucsb.edu/~dimirza)(UC Santa Barbara)
-* [Colleen Lewis](http://blogs.hmc.edu/lewis/)(Harvey Mudd College)
-* [Cynthia Lee](https://profiles.stanford.edu/48960)(Stanford University)
+* [Diba Mirza](https://cs.ucsb.edu/~dimirza) (UC Santa Barbara)
+* [Colleen Lewis](http://blogs.hmc.edu/lewis/) (Harvey Mudd College)
+* [Cynthia Lee](https://profiles.stanford.edu/48960) (Stanford University)
 
 # Abstract
 
