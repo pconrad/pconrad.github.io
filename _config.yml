@@ -213,7 +213,7 @@ defaults:
       path: ""
       type: teaching
     values:
-      layout: single
+      layout: course
       author_profile: true
       share: true
       comments: true

@@ -1,11 +1,9 @@
 ---
-title: "CMPTGCS 1L, W19"
+courseNum: "CMPTGCS 1L"
+title: "Computer Science Lab"
+term: "W19"
 collection: teaching
-type: "Undergraduate Course"
-venue: "UCSB, Computer Science"
+school: "UCSB"
 date: 2019-01-07
-location: "Santa Barbara, CA"
+link: https://ccs.ucsb.edu/courses/2019/winter/computer-science-lab
 ---
-
-For more information:
-* <https://ccs.ucsb.edu/courses/2019/winter/computer-science-lab>

@@ -7,6 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+<table>
+<tr>
+  <th>Course</th>
+  <th>Title</th>
+  <th>Term</th>
+  <th>School</th>
+  <th>Year</th>
+</tr>
 {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
+  {% include course.html %}
 {% endfor %}
+</table>
